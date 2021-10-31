@@ -1,2 +1,2 @@
 # typing-wiz
-Typing Wiz
+Typing Wiz, a typing practice game I made for my kids using python and popcap framework.
